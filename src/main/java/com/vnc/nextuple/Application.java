@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * 
- * @author DELL
+ * @author VNC
  *
  */
 
